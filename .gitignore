@@ -6,3 +6,12 @@ venv/
 __pycache__/
 *.pyc
 minikube-linux-amd64
+actions-runner/
+kube.yaml
+kubeconfig.b64
+venv/
+__pycache__/
+*.pyc
+actions-runner/
+actions-runner/
+kubeconfig.b64
